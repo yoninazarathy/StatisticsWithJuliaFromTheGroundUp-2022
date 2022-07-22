@@ -4,7 +4,7 @@ This is a workshop prepared for [JuliaCon2022](https://juliacon.org/2022/). See 
 
 ![A sample animation created during the workshop](sample_animation.gif)
 
-In order to run the workshop make sure that you have Julia executable installed (it was tested under Julia 1.6.0 and 1.6.2).
+In order to run the workshop make sure that you have Julia executable installed (it was tested under Julia 1.7.3).
 
 One way to run the workshop is to run as follows (you may also view the [installation video](https://youtu.be/KJleqSITuRo)):
 1. Clone this [workshop repository](https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp) to a local folder on your computer (or download the zip file).
