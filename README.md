@@ -26,9 +26,10 @@ The first time you run `notebook` you may be asked if to install `Conda`. Recomm
 5. In the Jupyter envionrment that opens in your web browser, navigate to the correct folder which you downloaded, open the *Workshop.ipynb* file, and run the first few cells up to the section `Why Julia?`. These cells will install the needed packages in the enviornment for the workshop. This will take considerable time but only needs to be run once. Note the line with `using RCall` is commented out. If you have R installed on your system you may uncomment it (delete `#uncomment if using R: `). 
 
 You can also consider:
-- A version of the repository with [all output](https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp/blob/master/Workshop-with-output.ipynb) or look at it in [nbviewer](https://nbviewer.jupyter.org/github/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp/blob/master/Workshop-with-output.ipynb#home).
+- A version of the repository with [all output](https://github.com/yoninazarathy/StatisticsWithJuliaFromTheGroundUp-2022/blob/main/Workshop-with-all-output.ipynb) or look at it in [nbviewer](https://nbviewer.org/github/yoninazarathy/StatisticsWithJuliaFromTheGroundUp-2022/blob/main/Workshop-with-all-output.ipynb).
 
 
 Some key links:
 * [JuliCon 2022](https://juliacon.org/2022/)
 * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
+* Other key links are in the Workshop.ipynb file.
