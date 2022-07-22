@@ -30,6 +30,6 @@ You can also consider:
 
 
 Some key links:
-* [JuliCon 2022](https://juliacon.org/2022/)
+* [JuliaCon 2022](https://juliacon.org/2022/)
 * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
 * Other key links are in the Workshop.ipynb file.
