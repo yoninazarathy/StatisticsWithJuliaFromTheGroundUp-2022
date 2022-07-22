@@ -1,6 +1,6 @@
-# Statistics with Julia From the Ground Up
+# Statistics with Julia From the Ground Up - 2022
 
-This is a workshop prepared for [JuliaCon2021](https://juliacon.org/2021/). See the [abstract](https://pretalx.com/juliacon2021/talk/A9KZCY/).
+This is a workshop prepared for [JuliaCon2022](https://juliacon.org/2022/). See the [abstract](https://live.juliacon.org/talk/F7WDXE). The actual workshop in JuliaCon is in Hebrew (עברית). The 2021 JuliaCon had a somewhat similar workshop in English, with code in [this repo](https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp) and a YouTube video available [here](https://www.youtube.com/watch?v=IlPoU5Yr2QI).
 
 ![A sample animation created during the workshop](sample_animation.gif)
 
@@ -30,7 +30,5 @@ You can also consider:
 
 
 Some key links:
-* [JuliCon 2021](https://juliacon.org/2021/)
-* [YouTube link to the workshop](https://www.youtube.com/watch?v=IlPoU5Yr2QI).
-* [A nearly parallel workshop on DataFrames.jl](https://pretalx.com/juliacon2021/talk/FXZXMB/)
+* [JuliCon 2022](https://juliacon.org/2022/)
 * [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/)
